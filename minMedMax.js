@@ -37,6 +37,7 @@ return answer
 }
 console.log(minMedMax(85,30,1))
 console.log(minMedMax(5,1,1))
+console.log(minMedMax(0,10,10))
 
 
 
